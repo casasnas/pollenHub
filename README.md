@@ -1,5 +1,5 @@
-# pollenHub
+# thecantina
 
-Pollen tracker
+Customizable Chatroom
 
-Includes chatroom to vent
+Messages are seldom stored client-side
